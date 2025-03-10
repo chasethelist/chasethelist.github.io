@@ -2,192 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/posts/1_healthy_weight/</loc>
+    <loc>http://localhost:4145/posts/1_healthy_weight/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/2_phd/</loc>
+    <loc>http://localhost:4145/posts/2_phd/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/3_my_own_house/</loc>
+    <loc>http://localhost:4145/posts/3_my_own_house/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/4_business/</loc>
+    <loc>http://localhost:4145/posts/4_business/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/5_stable/</loc>
+    <loc>http://localhost:4145/posts/5_stable/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/6_aerial/</loc>
+    <loc>http://localhost:4145/posts/6_aerial/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/7_swarm/</loc>
+    <loc>http://localhost:4145/posts/7_swarm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/8_stealth/</loc>
+    <loc>http://localhost:4145/posts/8_stealth/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/9_research/</loc>
+    <loc>http://localhost:4145/posts/9_research/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/10_article/</loc>
+    <loc>http://localhost:4145/posts/10_article/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/11_programmer/</loc>
+    <loc>http://localhost:4145/posts/11_programmer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/12_pcb/</loc>
+    <loc>http://localhost:4145/posts/12_pcb/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/13_fusion/</loc>
+    <loc>http://localhost:4145/posts/13_fusion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/14_website/</loc>
+    <loc>http://localhost:4145/posts/14_website/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/15_animation/</loc>
+    <loc>http://localhost:4145/posts/15_animation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/16_cartoon/</loc>
+    <loc>http://localhost:4145/posts/16_cartoon/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/17_work/</loc>
+    <loc>http://localhost:4145/posts/17_work/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/18_swim/</loc>
+    <loc>http://localhost:4145/posts/18_swim/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/19_tennis/</loc>
+    <loc>http://localhost:4145/posts/19_tennis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/20_makeup/</loc>
+    <loc>http://localhost:4145/posts/20_makeup/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/21_saree/</loc>
+    <loc>http://localhost:4145/posts/21_saree/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/22_kerala/</loc>
+    <loc>http://localhost:4145/posts/22_kerala/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/23_cruise/</loc>
+    <loc>http://localhost:4145/posts/23_cruise/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/24_bali/</loc>
+    <loc>http://localhost:4145/posts/24_bali/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/25_bioluminiscent/</loc>
+    <loc>http://localhost:4145/posts/25_bioluminiscent/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/26_scuba/</loc>
+    <loc>http://localhost:4145/posts/26_scuba/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/27_marathon/</loc>
+    <loc>http://localhost:4145/posts/27_marathon/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/28_trek/</loc>
+    <loc>http://localhost:4145/posts/28_trek/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/29_receipe/</loc>
+    <loc>http://localhost:4145/posts/29_receipe/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/30_sex/</loc>
+    <loc>http://localhost:4145/posts/30_sex/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/31_rubiks/</loc>
+    <loc>http://localhost:4145/posts/31_rubiks/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/32_german/</loc>
+    <loc>http://localhost:4145/posts/32_german/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/fitness/</loc>
+    <loc>http://localhost:4145/tags/fitness/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>http://localhost:4145/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/posts/</loc>
+    <loc>http://localhost:4145/posts/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>http://localhost:4145/tags/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/adventure/</loc>
+    <loc>http://localhost:4145/tags/adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/blog/</loc>
+    <loc>http://localhost:4145/tags/blog/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>http://localhost:4145/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/culinary/</loc>
+    <loc>http://localhost:4145/tags/culinary/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/milestone/</loc>
+    <loc>http://localhost:4145/tags/milestone/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/phd/</loc>
+    <loc>http://localhost:4145/tags/phd/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/self-discovery/</loc>
+    <loc>http://localhost:4145/tags/self-discovery/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/style/</loc>
+    <loc>http://localhost:4145/tags/style/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/tech/</loc>
+    <loc>http://localhost:4145/tags/tech/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:4321/tags/travel/</loc>
+    <loc>http://localhost:4145/tags/travel/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

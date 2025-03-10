@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Live before you leave</title>
-    <link>//localhost:4321/tags/</link>
+    <link>http://localhost:4145/tags/</link>
     <description>Recent content in Tags on Live before you leave</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
     <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
     <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4145/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fitness</title>
-      <link>//localhost:4321/tags/fitness/</link>
+      <link>http://localhost:4145/tags/fitness/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/fitness/</guid>
+      <guid>http://localhost:4145/tags/fitness/</guid>
       <description></description>
     </item>
     <item>
       <title>Adventure</title>
-      <link>//localhost:4321/tags/adventure/</link>
+      <link>http://localhost:4145/tags/adventure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/adventure/</guid>
+      <guid>http://localhost:4145/tags/adventure/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>//localhost:4321/tags/blog/</link>
+      <link>http://localhost:4145/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/blog/</guid>
+      <guid>http://localhost:4145/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Culinary</title>
-      <link>//localhost:4321/tags/culinary/</link>
+      <link>http://localhost:4145/tags/culinary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/culinary/</guid>
+      <guid>http://localhost:4145/tags/culinary/</guid>
       <description></description>
     </item>
     <item>
       <title>Milestone</title>
-      <link>//localhost:4321/tags/milestone/</link>
+      <link>http://localhost:4145/tags/milestone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/milestone/</guid>
+      <guid>http://localhost:4145/tags/milestone/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD</title>
-      <link>//localhost:4321/tags/phd/</link>
+      <link>http://localhost:4145/tags/phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/phd/</guid>
+      <guid>http://localhost:4145/tags/phd/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Discovery</title>
-      <link>//localhost:4321/tags/self-discovery/</link>
+      <link>http://localhost:4145/tags/self-discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/self-discovery/</guid>
+      <guid>http://localhost:4145/tags/self-discovery/</guid>
       <description></description>
     </item>
     <item>
       <title>Style</title>
-      <link>//localhost:4321/tags/style/</link>
+      <link>http://localhost:4145/tags/style/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/style/</guid>
+      <guid>http://localhost:4145/tags/style/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>//localhost:4321/tags/tech/</link>
+      <link>http://localhost:4145/tags/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/tech/</guid>
+      <guid>http://localhost:4145/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:4321/tags/travel/</link>
+      <link>http://localhost:4145/tags/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>//localhost:4321/tags/travel/</guid>
+      <guid>http://localhost:4145/tags/travel/</guid>
       <description></description>
     </item>
   </channel>
