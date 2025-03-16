@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Live before you leave</title>
-    <link>http://localhost:4321/tags/blog/</link>
+    <link>https://chasethelist.github.io/tags/blog/</link>
     <description>Recent content in Blog on Live before you leave</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Dimple Bhuta)</managingEditor>
     <webMaster>sample@gmail.com (Dimple Bhuta)</webMaster>
-    <atom:link href="http://localhost:4321/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chasethelist.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publish an Article (Blog/Magazine/Journal)</title>
-      <link>http://localhost:4321/posts/10_article/</link>
+      <link>https://chasethelist.github.io/posts/10_article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/10_article/</guid>
+      <guid>https://chasethelist.github.io/posts/10_article/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learn Animation &amp; Graphic Design</title>
-      <link>http://localhost:4321/posts/15_animation/</link>
+      <link>https://chasethelist.github.io/posts/15_animation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/15_animation/</guid>
+      <guid>https://chasethelist.github.io/posts/15_animation/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Create a Cartoon Character</title>
-      <link>http://localhost:4321/posts/16_cartoon/</link>
+      <link>https://chasethelist.github.io/posts/16_cartoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/16_cartoon/</guid>
+      <guid>https://chasethelist.github.io/posts/16_cartoon/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
   </channel>

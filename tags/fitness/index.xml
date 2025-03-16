@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitness on Live before you leave</title>
-    <link>http://localhost:4321/tags/fitness/</link>
+    <link>https://chasethelist.github.io/tags/fitness/</link>
     <description>Recent content in Fitness on Live before you leave</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Dimple Bhuta)</managingEditor>
     <webMaster>sample@gmail.com (Dimple Bhuta)</webMaster>
     <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chasethelist.github.io/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achieving Healthy Weight</title>
-      <link>http://localhost:4321/posts/1_healthy_weight/</link>
+      <link>https://chasethelist.github.io/posts/1_healthy_weight/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/1_healthy_weight/</guid>
-      <description>&lt;p&gt;In this post I want to document my weightloss journey. &lt;!-- raw HTML omitted --&gt;&#xA;Currently my height is 5 feet 1 inch, age is 37 years.  &lt;!-- raw HTML omitted --&gt;&#xA;My current weight is 88 kgs. I intend to loose 30kgs in 2 years,&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:4321/img/blog/1_weight_march25.jpg&#34;&#xA;    alt=&#34;weight&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;My weight on March 16, 2025&lt;/p&gt;</description>
+      <guid>https://chasethelist.github.io/posts/1_healthy_weight/</guid>
+      <description>&lt;p&gt;In this post I want to document my weightloss journey. &lt;!-- raw HTML omitted --&gt;&#xA;Currently my height is 5 feet 1 inch, age is 37 years.  &lt;!-- raw HTML omitted --&gt;&#xA;My current weight is 88 kgs. I intend to loose 30kgs in 2 years,&#xA;&lt;figure&gt;&lt;img src=&#34;https://chasethelist.github.io/img/blog/1_weight_march25.jpg&#34;&#xA;    alt=&#34;weight&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;My weight on March 16, 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learn Swimming</title>
-      <link>http://localhost:4321/posts/18_swim/</link>
+      <link>https://chasethelist.github.io/posts/18_swim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/18_swim/</guid>
+      <guid>https://chasethelist.github.io/posts/18_swim/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learn to Play Tennis Well</title>
-      <link>http://localhost:4321/posts/19_tennis/</link>
+      <link>https://chasethelist.github.io/posts/19_tennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/19_tennis/</guid>
+      <guid>https://chasethelist.github.io/posts/19_tennis/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Train for a Half Marathon</title>
-      <link>http://localhost:4321/posts/27_marathon/</link>
+      <link>https://chasethelist.github.io/posts/27_marathon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/27_marathon/</guid>
+      <guid>https://chasethelist.github.io/posts/27_marathon/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
   </channel>

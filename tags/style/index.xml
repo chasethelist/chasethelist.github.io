@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Style on Live before you leave</title>
-    <link>http://localhost:4321/tags/style/</link>
+    <link>https://chasethelist.github.io/tags/style/</link>
     <description>Recent content in Style on Live before you leave</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Dimple Bhuta)</managingEditor>
     <webMaster>sample@gmail.com (Dimple Bhuta)</webMaster>
-    <atom:link href="http://localhost:4321/tags/style/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chasethelist.github.io/tags/style/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Master Self-Makeup</title>
-      <link>http://localhost:4321/posts/20_makeup/</link>
+      <link>https://chasethelist.github.io/posts/20_makeup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/20_makeup/</guid>
+      <guid>https://chasethelist.github.io/posts/20_makeup/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curate a Saree Collection</title>
-      <link>http://localhost:4321/posts/21_saree/</link>
+      <link>https://chasethelist.github.io/posts/21_saree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/21_saree/</guid>
+      <guid>https://chasethelist.github.io/posts/21_saree/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
   </channel>

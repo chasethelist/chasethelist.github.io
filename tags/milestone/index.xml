@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milestone on Live before you leave</title>
-    <link>http://localhost:4321/tags/milestone/</link>
+    <link>https://chasethelist.github.io/tags/milestone/</link>
     <description>Recent content in Milestone on Live before you leave</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Dimple Bhuta)</managingEditor>
     <webMaster>sample@gmail.com (Dimple Bhuta)</webMaster>
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/milestone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chasethelist.github.io/tags/milestone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Owning Home</title>
-      <link>http://localhost:4321/posts/3_my_own_house/</link>
+      <link>https://chasethelist.github.io/posts/3_my_own_house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/3_my_own_house/</guid>
+      <guid>https://chasethelist.github.io/posts/3_my_own_house/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting My Own Business</title>
-      <link>http://localhost:4321/posts/4_business/</link>
+      <link>https://chasethelist.github.io/posts/4_business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/4_business/</guid>
+      <guid>https://chasethelist.github.io/posts/4_business/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Achieve Financial Peace and Stability</title>
-      <link>http://localhost:4321/posts/5_stable/</link>
+      <link>https://chasethelist.github.io/posts/5_stable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/5_stable/</guid>
+      <guid>https://chasethelist.github.io/posts/5_stable/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Solve the Rubik Cube</title>
-      <link>http://localhost:4321/posts/31_rubiks/</link>
+      <link>https://chasethelist.github.io/posts/31_rubiks/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/31_rubiks/</guid>
-      <description>&lt;p&gt;Today I was able to solve the Rubik&amp;rsquo;s cube using the algorithm explained in &lt;a href=&#34;https://youtu.be/-H6IdI_5RlU?si=BEEOvn__dkDGgjiq&#34;&gt;YouTube Video&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&#xA;I solved the cube in under 5 mins, following image is the screenshot from my mobile stop watch,&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:4321/img/blog/31_rubik_solve.jpg&#34;&#xA;    alt=&#34;weight&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Solving rubiks cube&lt;/p&gt;</description>
+      <guid>https://chasethelist.github.io/posts/31_rubiks/</guid>
+      <description>&lt;p&gt;Today I was able to solve the Rubik&amp;rsquo;s cube using the algorithm explained in &lt;a href=&#34;https://youtu.be/-H6IdI_5RlU?si=BEEOvn__dkDGgjiq&#34;&gt;YouTube Video&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&#xA;I solved the cube in under 5 mins, following image is the screenshot from my mobile stop watch,&#xA;&lt;figure&gt;&lt;img src=&#34;https://chasethelist.github.io/img/blog/31_rubik_solve.jpg&#34;&#xA;    alt=&#34;weight&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Solving rubiks cube&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learn German</title>
-      <link>http://localhost:4321/posts/32_german/</link>
+      <link>https://chasethelist.github.io/posts/32_german/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>http://localhost:4321/posts/32_german/</guid>
+      <guid>https://chasethelist.github.io/posts/32_german/</guid>
       <description>&lt;p&gt;In this post,&lt;/p&gt;</description>
     </item>
   </channel>
