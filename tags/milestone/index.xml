@@ -8,17 +8,16 @@
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Dimple Bhuta)</managingEditor>
     <webMaster>sample@gmail.com (Dimple Bhuta)</webMaster>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://chasethelist.github.io/tags/milestone/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Owning Home</title>
-      <link>https://chasethelist.github.io/posts/3_my_own_house/</link>
+      <title>My Home</title>
+      <link>https://chasethelist.github.io/posts/2_my_own_house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>https://chasethelist.github.io/posts/3_my_own_house/</guid>
+      <guid>https://chasethelist.github.io/posts/2_my_own_house/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Budget: ₹1 crore&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Starting My Own Business</title>
+      <title>Start My Own Business</title>
       <link>https://chasethelist.github.io/posts/4_business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
       <guid>https://chasethelist.github.io/posts/4_business/</guid>
@@ -32,17 +31,10 @@
       <description>&lt;p&gt;After covering the cost of my house and ensuring a basic monthly allowance, having ₹1 crore as a financial backup should provide stability and security.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Solve the Rubik Cube</title>
-      <link>https://chasethelist.github.io/posts/31_rubiks/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>https://chasethelist.github.io/posts/31_rubiks/</guid>
-      <description>&lt;p&gt;Today I was able to solve the Rubik&amp;rsquo;s cube using the algorithm explained in &lt;a href=&#34;https://youtu.be/-H6IdI_5RlU?si=BEEOvn__dkDGgjiq&#34;&gt;YouTube Video&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt;&#xA;I solved the cube in under 5 mins, following image is the screenshot from my mobile stop watch,&#xA;&lt;figure&gt;&lt;img src=&#34;https://chasethelist.github.io/img/blog/31_rubik_solve.jpg&#34;&#xA;    alt=&#34;weight&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Solving rubiks cube&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Learn German</title>
-      <link>https://chasethelist.github.io/posts/32_german/</link>
+      <link>https://chasethelist.github.io/posts/14_german/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sample@gmail.com (Dimple Bhuta)</author>
-      <guid>https://chasethelist.github.io/posts/32_german/</guid>
+      <guid>https://chasethelist.github.io/posts/14_german/</guid>
       <description>&lt;p&gt;I have paid ₹30,000 for A1 and A2 German classes, and I need to take the A1 exam, which will cost ₹7,000. My target is to take the exam in November 2025. To become certified in German language, I plan to clear A1, A2, B1, B2, C1, and C2 levels.&lt;/p&gt;</description>
     </item>
   </channel>
